@@ -6,3 +6,8 @@
 	flex-wrap:wrap;
 	justify-content:space-evenly;
 }
+.items{
+	background-color:red;
+	width:20px;;
+	padding:20px;
+}
